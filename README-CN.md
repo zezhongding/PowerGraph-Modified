@@ -1,3 +1,6 @@
+# PowerGraph-Modified
+
+[![GitHub license](https://img.shields.io/github/license/BearBiscuit05/PowerGraph_update)](
 PowerGraph是2012年发表在OSDI会议上的一篇有关于图计算系统的文章。由于其本身包含了多种传统图算法，并且支持分布式计算，因此直到今日依然会成为众多论文的基线对比，或者是通过PG来验证一些算法的效果。
 
 但是由于PowerGraph年久失修，目前无法直接通过github的源码来进行编译，主要的原因还是第三方库的URL失效。由于最近我们的论文有使用到PG计算框架，也是踩了许多坑，再次进行记录，希望可以方便后面还需要使用PG来进行测试的人员。
